@@ -1,0 +1,4 @@
+Harry Potter 5 10 3 6 10
+Fred Weasley 0 0 2 3 6
+George Weasley 0 5 10 10 0
+Hermione Granger 10 10 10 10 10
