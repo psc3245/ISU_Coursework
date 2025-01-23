@@ -1,0 +1,1 @@
+java Disassemble.java $1
